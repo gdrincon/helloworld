@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">Hello World</string>
-    <string name="click">Click me!</string>
+    <string name="button_en_text">Click me!</string>
     <string name="text_change">Hola món!</string>
     <string name="text_on_start">Hello World!</string>
+    <string name="button_cat_text">Clica\'m!</string>
 </resources>
